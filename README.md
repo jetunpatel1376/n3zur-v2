@@ -13,7 +13,7 @@
 
 
 > [!NOTE]
-> This repository provides detailed information and resources for downloading, installing, and using SynapseX.
+> This repository provides detailed information and resources for downloading, installing, and using Nezur.
 
 ---
 
