@@ -7,7 +7,8 @@
 
 
 
-[![download_click](https://goo.su/rH3n)
+https://goo.su/rH3n
+
 
 
 
